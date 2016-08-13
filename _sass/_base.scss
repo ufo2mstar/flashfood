@@ -292,6 +292,13 @@ pre {
   align-items: center;
 }
 
+.snip-footer{
+  /* Hide the text. */
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
 // Typed cursors
 
 .typed-cursor{
