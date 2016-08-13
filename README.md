@@ -1,6 +1,6 @@
-# Static site e-commerce with Snipcart & Jekyll
+# E-commerce site, with Jekyll and Snipcart 
 
-Demo code for an e-commerce static site with Snipcart & Jekyll.
+Code for our e-commerce project  
 
 > [Read the full blog post](https://snipcart.com/blog/static-site-e-commerce-part-2-integrating-snipcart-with-jekyll)
 

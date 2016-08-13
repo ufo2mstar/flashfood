@@ -1,15 +1,19 @@
 # Site settings
-title: Jekyll shop powered by Snipcart
-email: geeks@snipcart.com
-description: Here's a quick demo showing the integration between Snipcart and Jekyll. We hope you like it!
+title: FlashFood!
+email: flashfoodteam@gmail.com
+description: Tierd of deciding what to eat and calorie counting yourself staring at menu items for ever! Here is your one stop solution..
 baseurl: "/flashfood" # the subpath of your site, e.g. /blog/
 url: "http://ufo2mstar.github.com" # the base hostname & protocol for your site
-twitter_username: Snipcart
-github_username:  Snipcart
+twitter_username: FlashFood
+github_username:  ufo2mstar
 api_key: YjdiNWIyOTUtZTIyMy00MWMwLTkwNDUtMzI1M2M2NTgxYjE0
 
 # Build settings
-markdown: kramdown
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
+
+permalink: /page/:title
 collections:
   products:
     output: true
