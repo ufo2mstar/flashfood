@@ -2,8 +2,8 @@
 
 Code for our e-commerce project  
 
-> [Read the full blog post](https://snipcart.com/blog/static-site-e-commerce-part-2-integrating-snipcart-with-jekyll)
+> Thanks for your awesome [blog post](https://snipcart.com/blog/static-site-e-commerce-part-2-integrating-snipcart-with-jekyll) guys at Snipcart!
 
-> [Check out the live demo site](http://snipcart.github.io/flashfood/)
+> Special Thanks for the typing animation [Matt Boldt](https://github.com/mattboldt)
 
 Enjoy folks!

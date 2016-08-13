@@ -102,6 +102,7 @@ ul, ol, dl, figure,
 img {
     max-width: 100%;
     vertical-align: middle;
+    object-fit: contain;
 }
 
 
@@ -264,5 +265,14 @@ pre {
 
 
 .thumbnail {
+  height: 200px;
   width: 200px;
+}
+
+.product-details-img {
+  height: 400px;
+  width: 400px;
+  //object-fit: contain;
+  //object-fit: fill;
+  object-fit: cover;
 }

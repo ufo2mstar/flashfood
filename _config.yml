@@ -1,11 +1,17 @@
 # Site settings
-title: FlashFood!
+title: Flash Food!
+
+# Footer content
 email: flashfoodteam@gmail.com
-description: Tired of deciding what to eat and calorie counting yourself staring at menu items for ever! Here is your one stop solution..
-baseurl: "/flashfood" # the subpath of your site, e.g. /blog/
-url: "http://ufo2mstar.github.com" # the base hostname & protocol for your site
 twitter_username: FlashFoodTeam
 github_username:  ufo2mstar
+description: Tired of deciding what to eat and calorie counting yourself staring at menu items for ever! Here is your one stop solution..
+
+baseurl: "/flashfood" # the subpath of your site, e.g. /blog/
+url: "http://ufo2mstar.github.com" # the base hostname & protocol for your site
+
+
+# for the snitcart!
 api_key: YjdiNWIyOTUtZTIyMy00MWMwLTkwNDUtMzI1M2M2NTgxYjE0
 
 # Build settings
@@ -13,7 +19,7 @@ markdown: rdiscount
 rdiscount:
   extensions: [smart]
 
-permalink: /page/:title
+#permalink: /page/:title
 collections:
   products:
-    output: true
+    output: true.
