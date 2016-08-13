@@ -263,6 +263,7 @@ pre {
     }
 }
 
+// a little manual image tweak!
 
 .thumbnail {
   height: 200px;
@@ -275,4 +276,42 @@ pre {
   //object-fit: contain;
   //object-fit: fill;
   object-fit: cover;
+}
+
+// Title styles
+.product-title{
+  //width: 400px;
+  //padding: 25px;
+  //margin: 25px;
+  background-color: #CFD8DC;
+  font-size: 30px;
+  font-weight: bold;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+// Typed cursors
+
+.typed-cursor{
+  opacity: 1;
+  -webkit-animation: blink 0.7s infinite;
+  -moz-animation: blink 0.7s infinite;
+  animation: blink 0.7s infinite;
+}
+@keyframes blink{
+  0% { opacity:1; }
+  50% { opacity:0; }
+  100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+  0% { opacity:1; }
+  50% { opacity:0; }
+  100% { opacity:1; }
+}
+@-moz-keyframes blink{
+  0% { opacity:1; }
+  50% { opacity:0; }
+  100% { opacity:1; }
 }
