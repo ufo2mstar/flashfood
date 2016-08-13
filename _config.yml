@@ -1,10 +1,10 @@
 # Site settings
 title: FlashFood!
 email: flashfoodteam@gmail.com
-description: Tierd of deciding what to eat and calorie counting yourself staring at menu items for ever! Here is your one stop solution..
+description: Tired of deciding what to eat and calorie counting yourself staring at menu items for ever! Here is your one stop solution..
 baseurl: "/flashfood" # the subpath of your site, e.g. /blog/
 url: "http://ufo2mstar.github.com" # the base hostname & protocol for your site
-twitter_username: FlashFood
+twitter_username: FlashFoodTeam
 github_username:  ufo2mstar
 api_key: YjdiNWIyOTUtZTIyMy00MWMwLTkwNDUtMzI1M2M2NTgxYjE0
 
