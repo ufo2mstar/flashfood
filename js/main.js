@@ -11,9 +11,9 @@ $(function () {
     $(".typed_element").typed({
         strings: [
             "deciding what to eat! ^1000",
-            "calorie counting yourself... ^1500",
+            "calorie counting all by yourself? ^1500",
             "not knowing what you may like in a new place? ^2000",
-            "reading reviews from a million places! ^1.5000",
+            "reading reviews from a million places! ^1500",
             "staring at menu items for ever! ^500"
         ],
         typeSpeed: 0

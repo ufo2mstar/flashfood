@@ -12,6 +12,9 @@
 
     <div class="page-content">
 
+        {% for script in layout.body %}
+            {% include {{ script }} %}
+        {% endfor %}
       {{ content }}
 
     </div>
