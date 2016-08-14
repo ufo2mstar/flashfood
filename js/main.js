@@ -12,9 +12,9 @@ $(function () {
         strings: [
             "deciding what to eat! ^1000",
             "calorie counting yourself... ^1500",
-            "staring at menu items for ever! ^500",
-            "reading reviews from a million places! ^2000",
-            "not knowing what you may like? ^1000"
+            "not knowing what you may like in a new place? ^2000",
+            "reading reviews from a million places! ^1.5000",
+            "staring at menu items for ever! ^500"
         ],
         typeSpeed: 0
     });
