@@ -16,6 +16,9 @@ $(function () {
             "reading reviews from a million places! ^1500",
             "staring at menu items for ever! ^500"
         ],
-        typeSpeed: 0
+        typeSpeed: 0,
+        shuffle: true,
+        backDelay: 500,
+        loop: true
     });
 });
