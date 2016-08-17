@@ -13,7 +13,8 @@ url: "http://ufo2mstar.github.io" # the base hostname & protocol for your site
 
 
 # for the snitcart!
-api_key: YjdiNWIyOTUtZTIyMy00MWMwLTkwNDUtMzI1M2M2NTgxYjE0
+#api_key: YjdiNWIyOTUtZTIyMy00MWMwLTkwNDUtMzI1M2M2NTgxYjE0
+api_key: YTBhOWY4NTQtZDY5Yy00ZWEyLTljZTItN2VhYTkzYTRiZTFjNjM2MDcwNzE1MzUwNTM0ODkw
 
 # Build settings
 markdown: rdiscount
