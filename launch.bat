@@ -1,2 +1,2 @@
-@echo off
-jekyll s --incremental
+# @echo off
+jekyll.bat s -I --profile
